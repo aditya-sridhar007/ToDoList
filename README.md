@@ -1,3 +1,3 @@
 # ToDoList
 
-A To-Do-List created using React
+A To-Do-List built using React
